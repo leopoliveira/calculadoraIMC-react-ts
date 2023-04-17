@@ -1,0 +1,12 @@
+.main {
+  margin: 40px auto;
+}
+
+input {
+  padding: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #000;
+  background-color: transparent;
+}
